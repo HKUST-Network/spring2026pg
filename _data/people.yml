@@ -6,11 +6,11 @@ instructors:
 
 teaching_assistants:
   - name: Hua Meng
-    profile_pic: /_images/pp/hua-meng.jpeg
+    profile_pic: ./_images/pp/hua-meng.jpeg
     webpage: https://www.linkedin.com/in/hua-meng-a49609177/
     email: hmengab@connect.ust.hk
 
   - name: Xiaotao Hu
     profile_pic: https://huxiaotaostasy.github.io/images/android-chrome-512x512.png
-    webpage: https://xiangyueliu.github.io/
+    webpage: https://huxiaotaostasy.github.io/
     email: xhubx@connect.ust.hk
