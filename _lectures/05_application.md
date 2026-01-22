@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-03
+date: 2026-03-09
 title: Application Layer
 thumbnail: /static_files/presentations/lec.jpg
 # links: 

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-17
+date: 2026-03-23
 title: Input and Output Devices
 thumbnail: /static_files/presentations/lec.jpg
 # links: 

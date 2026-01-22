@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-10
+date: 2026-03-16
 title: Video Codecs
 thumbnail: /static_files/presentations/lec.jpg
 # links: 

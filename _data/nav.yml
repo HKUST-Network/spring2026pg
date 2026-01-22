@@ -12,7 +12,7 @@ items:
   icon_class: fas fa-book-reader
 
 externals:
-- url: https://canvas.ust.hk/courses/61568/assignments
+- url: https://canvas.ust.hk/courses/68580/assignments
   name: Assignments
   icon_class: fas fa-user-graduate
 
@@ -24,10 +24,10 @@ externals:
   name: SparkRTC
   icon_class: fas fa-user-graduate
 
-- url: https://hkust-foggynet25spring.hotcrp.com/
+- url: https://hkust-foggynet26spring.hotcrp.com/
   name: HotCRP
   icon_class: fas fa-book-reader
 
-- url: https://edstem.org/au/courses/16830/discussion/
+- url: https://edstem.org/au/courses/31195/discussion/
   name: Ed
   icon_class: fas fa-book-reader

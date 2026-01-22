@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-04-07
+date: 2026-04-20
 title: Power, Costs, and Security
 thumbnail: /static_files/presentations/lec.jpg
 # links: 

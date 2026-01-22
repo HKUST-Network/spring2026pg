@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-05-05
-title: NO LECTURE
+date: 2026-05-04
+title: NO LECTURE (rescheduled)
 thumbnail: /static_files/presentations/lec.jpg
 # links: 
 #     - url: https://google.com

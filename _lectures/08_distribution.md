@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-24
+date: 2026-03-30
 title: Content Distribution
 thumbnail: /static_files/presentations/lec.jpg
 # links: 

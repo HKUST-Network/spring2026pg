@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2026-05-04
-title: NO LECTURE (rescheduled)
+date: 2026-04-06
+title: NO LECTURE (Good Friday)
 thumbnail: /static_files/presentations/lec.jpg
 # links: 
 #     - url: https://google.com

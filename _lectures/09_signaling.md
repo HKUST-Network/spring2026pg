@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-31
+date: 2026-04-13
 title: Signaling
 thumbnail: /static_files/presentations/lec.jpg
 # links: 

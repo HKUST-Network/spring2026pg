@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-04-28
+date: 2026-05-11
 title: Project Presentation and PC Meeting
 thumbnail: /static_files/presentations/lec.jpg
 # links: 

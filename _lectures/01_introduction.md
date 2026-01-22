@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-02-03
+date: 2026-02-02
 title: Introduction and Internet Architecture
 thumbnail: /static_files/presentations/lec.jpg
 links: 
