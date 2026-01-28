@@ -6,6 +6,9 @@ ELEC 6910I is an advanced research-oriented postgraduate course in Internet vide
 
 The goal is for students to learn not only what Internet video streaming are and how they work today, but also why they are designed the way they are and how they are likely to evolve in the future. We will draw examples primarily from the Internet. Evaluation is based on paper reviews and the final project.
 
+### I'm waitlisted. What should I do?
+If you're a non-ECE student waitlisted for this course, don't worry. We will remove the reserve and open to all students in the beginning of the add/drop period.
+
 ### What project am I going to do?
 
 You will implement something over [SparkRTC](https://github.com/hkust-spark/sparkrtc), a WebRTC variant maintained by us.
