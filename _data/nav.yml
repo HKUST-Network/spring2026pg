@@ -20,7 +20,7 @@ externals:
   name: Readings
   icon_class: fas fa-book-reader
 
-- url: https://github.com/hkust-spark/sparkrtc-public
+- url: https://github.com/hkust-spark/sparkrtc
   name: SparkRTC
   icon_class: fas fa-user-graduate
 

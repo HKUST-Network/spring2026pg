@@ -8,7 +8,7 @@ The goal is for students to learn not only what Internet video streaming are and
 
 ### What project am I going to do?
 
-You will implement something over [SparkRTC](https://github.com/hkust-spark/sparkrtc-public), a WebRTC variant maintained by us.
+You will implement something over [SparkRTC](https://github.com/hkust-spark/sparkrtc), a WebRTC variant maintained by us.
 This is a semester-long project.
 
 Why so?
@@ -36,5 +36,5 @@ If your assignments are detected to be copied or AI-generated, this will be a se
 
 * [Ed](https://edstem.org/au/courses/31195/discussion/).\
   For all course-related questions, you are **strongly discouraged** to email the instructor directly unless privacy concerns are involved. Instead, post your questions on Ed (it can be anonymous). Other students can benefit from the answer as well.
-* [Github repo](https://github.com/hkust-spark/sparkrtc-public).\
+* [Github repo](https://github.com/hkust-spark/sparkrtc).\
   For releasing code template for projects.
