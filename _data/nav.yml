@@ -16,7 +16,7 @@ externals:
   name: Assignments
   icon_class: fas fa-user-graduate
 
-- url: https://docs.google.com/document/d/e/2PACX-1vS2lwvEegfAQm9L8QlD6ryM5DZUtAwr2s2pbXJWhFPNcDQ5grrUaYTIQqNvxySSo_kPlXMtQ_tDi1NF/pub
+- url: https://gohkust-my.sharepoint.com/:w:/g/personal/zilim_ust_hk/IQCGQ3B11pV4So3xL76iZMBLAUOr0sX-mn2h8-Vt1a21gYg?e=Vvcc3X 
   name: Readings
   icon_class: fas fa-book-reader
 
@@ -24,7 +24,11 @@ externals:
   name: SparkRTC
   icon_class: fas fa-user-graduate
 
-- url: https://hkust-foggynet26spring.hotcrp.com/
+- url: https://github.com/hkust-spark/xg-glass-sdk
+  name: xg.glass
+  icon_class: fas fa-user-graduate
+
+- url: https://hkust-foggynet26.hotcrp.com/
   name: HotCRP
   icon_class: fas fa-book-reader
 
