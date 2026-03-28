@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-05-04
+date: 2026-05-11
 title: NO LECTURE (rescheduled)
 thumbnail: /static_files/presentations/lec.jpg
 # links: 

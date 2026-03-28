@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-04-27
+date: 2026-05-04
 title: Video Streaming Applications
 thumbnail: /static_files/presentations/lec.jpg
 # links: 

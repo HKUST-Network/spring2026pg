@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-03-16
-title: Video Codecs
+title: Application Layer
 thumbnail: /static_files/presentations/lec.jpg
 # links: 
     # - url: https://canvas.ust.hk/courses/58326/modules/items/1433438
